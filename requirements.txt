@@ -18,3 +18,8 @@ numpy
 pandas
 scipy
 av
+
+# --- VLM & Transformer Libraries ---
+transformers
+sentencepiece
+sacremoses
