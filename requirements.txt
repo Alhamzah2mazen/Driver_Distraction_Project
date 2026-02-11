@@ -1,0 +1,20 @@
+# --- Core Deep Learning ---
+torch
+torchvision
+torchaudio
+
+# --- Object Detection & Logic ---
+ultralytics
+opencv-python
+pillow
+
+# --- ALPR & OCR ---
+paddlepaddle
+paddleocr
+
+# --- Behavioral Analysis ---
+mediapipe
+numpy
+pandas
+scipy
+av
